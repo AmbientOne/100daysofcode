@@ -12,3 +12,10 @@
 **Today's Progress**: Finished HTML on codeacdemy. Learned sementics and started learning CSS.
 
 **Thoughts** Continuing from yesterday. On track to finish the basics of web dev including HTML CSS AND JS by Oct 31. On track for it!
+
+
+### Day 2: October 26, Saturday
+
+**Today's Progress**: Very slow day for me. Tried to finish the entire CSS section on codeacademy, didn't get through it.
+
+**Thoughts** Didn't reach my deadline for today but I will try again tomorrow. Goals for tomorrow include finishing base line codeacademy section for CSS and starting the Odin lab for HTML and CSS. 
