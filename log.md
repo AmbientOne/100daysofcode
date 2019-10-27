@@ -14,7 +14,7 @@
 **Thoughts** Continuing from yesterday. On track to finish the basics of web dev including HTML CSS AND JS by Oct 31. On track for it!
 
 
-### Day 2: October 26, Saturday
+### Day 3: October 26, Saturday
 
 **Today's Progress**: Very slow day for me. Tried to finish the entire CSS section on codeacademy, didn't get through it.
 
